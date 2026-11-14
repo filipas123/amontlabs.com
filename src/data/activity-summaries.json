@@ -112,7 +112,7 @@
   "text": "In Fjord, highlighted items in the Router's brief now respond to the inbox's keyboard shortcuts, and the brief's past versions moved to a resizable side panel that stays as left between launches. Pressing Esc also stopped closing the window."
  },
  "2026-11-14": {
-  "hash": "6db9c8c3b93da99b3711e5e5e61b653854f1ad7b",
-  "text": "Fjord's Router can now send pasted or dropped pictures and files with a message or answer to a T3 Code thread. In lastdrop, each added agent is now its own agent type in Claude Code, so auto mode no longer refuses calls to it."
+  "hash": "e871a1a4e5dbe8333fa4b9483480b29403293f26",
+  "text": "Fjord's Router can now take pictures and files pasted or dropped into a message and send them to T3 Code threads, including with answers to an agent's questions. In T3 Code, lastdrop now lists its models with an effort setting for each."
  }
 }
