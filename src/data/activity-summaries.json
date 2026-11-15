@@ -1,8 +1,4 @@
 {
- "2026-11-14": {
-  "hash": "f8fe42623e5913d1565d3f9814f6d1282a541f31",
-  "text": "Fjord's Router can now send pictures and files, and its Show me button has an agent make an animated explainer of a thread's answer. In T3 Code, LCU can now let an agent use an app for a whole conversation or for good."
- },
  "2026-11-13": {
   "hash": "2c08bbcc147519e957aab7085608921f8e185239",
   "text": "atelier, which lets several coding agents build one project in parallel and merge without waiting on CI, got a public README and an MIT licence, and Silo started using it. lastdrop now retries brief server errors, then hands the work to another account."
@@ -111,8 +107,12 @@
   "hash": "718303ba5f0cca44870c898c8c10a3a67cdecf46",
   "text": "A ready-made copy of Silo's engine can now be signed again and built into another app. Fjord's connection to Silo stopped tying up shared threads, which had made its automated tests hang."
  },
+ "2026-11-14": {
+  "hash": "34e8bed550041372b4555522fee7eeb9056eaf50",
+  "text": "Fjord's Router can now send pictures and files with your messages, and can ask an agent to make a playable explainer of a thread's answer. LCU's computer-use approvals in T3 Code now offer Allow this conversation and Always allow."
+ },
  "2026-11-15": {
-  "hash": "7c950c8ebd48dca506fb6ffc1b5c10150988dd29",
-  "text": "Fjord's Show me button now keeps each version of an explainer, the first and one per follow-up, to switch between, and its Router no longer stalls when the window is resized. In lastdrop, agents on other models no longer fail after long runs with \"Prompt is too long\"."
+  "hash": "8cedcdb1fadac01ddd50a17c4d183ee2b6595d6e",
+  "text": "Fjord's playable explainers now keep a version for each follow-up, switchable under the answer, and resizing its window no longer stalls. atelier now runs tests and other checks at the same time. lastdrop fixed long agent runs failing on their next message."
  }
 }
