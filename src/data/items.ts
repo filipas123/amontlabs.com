@@ -22,6 +22,20 @@ export const others: Record<string, { stage: Stage; kind: "app" | "cli" | "web";
       ],
     },
   },
+  atelier: {
+    stage: "Alpha",
+    kind: "cli",
+    platforms: ["macos", "linux"],
+    line: "A CLI for coding agents to orchestrate parallel work.",
+    pitch: {
+      lead: "atelier lets several coding agents build one repository in parallel and merges only what passed.",
+      points: [
+        "Gives each task its own git worktree; a task can build on one that is not merged yet",
+        "Merges approved branches as one batch once the full check passes on your own Mac and Linux machines",
+        "Writes the same rules and task prompts for every agent",
+      ],
+    },
+  },
 };
 // What a project is, for someone who has never heard of it: one sentence, then what it does. Hand-written and
 // settled with the lab: the activity sync never rewrites it.
