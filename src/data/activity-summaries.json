@@ -112,7 +112,7 @@
   "text": "A ready-made copy of Silo's engine can now be signed again and built into another app. Fjord's connection to Silo stopped tying up shared threads, which had made its automated tests hang."
  },
  "2026-11-15": {
-  "hash": "02458151791dbae49c45106fe44165a6f0442a83",
-  "text": "Fjord's Show me button now keeps each version of an explainer, the original and one per follow-up, to switch between, and resizing the Router window no longer stalls. In lastdrop, redirecting a running agent no longer makes it report that it stopped."
+  "hash": "7c950c8ebd48dca506fb6ffc1b5c10150988dd29",
+  "text": "Fjord's Show me button now keeps each version of an explainer, the first and one per follow-up, to switch between, and its Router no longer stalls when the window is resized. In lastdrop, agents on other models no longer fail after long runs with \"Prompt is too long\"."
  }
 }
