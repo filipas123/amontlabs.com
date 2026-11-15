@@ -28,7 +28,7 @@ import { tmpdir } from "node:os";
 // not project work: the organisation profile, this site, and the brand repository
 const EXCLUDE = new Set([".github", "amontlabs.com", "amont"]);
 // names as the site writes them; any other repository goes by its GitHub name
-const NAMES = { silo: "Silo", fjord: "Fjord", sic: "Sic", lcu: "LCU", lastdrop: "lastdrop", hartlib: "Hartlib" };
+const NAMES = { silo: "Silo", fjord: "Fjord", sic: "Sic", atelier: "atelier", lcu: "LCU", lastdrop: "lastdrop", hartlib: "Hartlib" };
 const FILE = new URL("../src/data/activity.json", import.meta.url);
 const SUMMARIES = new URL("../src/data/activity-summaries.json", import.meta.url);
 const EXPLAINERS = new URL("../src/data/activity-explainers.json", import.meta.url);

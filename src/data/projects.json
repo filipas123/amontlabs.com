@@ -5,9 +5,9 @@
     "stars": 8,
     "forks": 1
   },
-  "sic": {
-    "version": null,
-    "releasedAt": null,
+  "atelier": {
+    "version": "v0.2.2",
+    "releasedAt": "2026-11-15T15:03:18Z",
     "stars": 0,
     "forks": 0
   },
@@ -29,5 +29,5 @@
     "stars": 3,
     "forks": 1
   },
-  "updatedAt": "2026-11-15T13:58:18.679Z"
+  "updatedAt": "2026-11-15T16:11:50.586Z"
 }

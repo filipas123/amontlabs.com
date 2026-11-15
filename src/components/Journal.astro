@@ -24,7 +24,7 @@ const gh = (repo: string) => `https://github.com/amontlabs/${repo}`;
 const N = A.days.length;
 
 // colour follows the project, never its rank. A repository not listed here is grey.
-const ORDER = ["silo", "fjord", "sic", "lcu", "lastdrop", "hartlib"];
+const ORDER = ["silo", "fjord", "atelier", "lcu", "lastdrop", "hartlib"];
 const color = (id: string) => (ORDER.includes(id) ? `var(--c${ORDER.indexOf(id) + 1})` : "var(--c0)");
 const name = (id: string) => A.repos[id]?.name ?? id;
 // the rows: the featured projects (ORDER), the busiest first. Any other repository that moved is not a row, so a

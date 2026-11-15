@@ -4,7 +4,7 @@
 // its date, stars and forks. Writes the file only when something other than updatedAt changed. Always exits 0.
 import { readFileSync, writeFileSync } from "node:fs";
 
-const REPOS = ["silo", "sic", "fjord", "lcu", "lastdrop"];
+const REPOS = ["silo", "atelier", "fjord", "lcu", "lastdrop"];
 const FILE = new URL("../src/data/projects.json", import.meta.url);
 const headers = { Accept: "application/vnd.github+json", "User-Agent": "amontlabs.com" };
 if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
