@@ -22,20 +22,7 @@ export const others: Record<string, { stage: Stage; kind: "app" | "cli" | "web";
       ],
     },
   },
-  sic: {
-    stage: "Prototype",
-    kind: "web",
-    platforms: [],
-    line: "Political debates, fact-checked live.",
-    pitch: {
-      lead: "Sic checks the facts in French political debates against official sources, live or on replay.",
-      points: [
-        "Watches the debate, identifies each speaker and what they claim",
-        "Picks out checkable claims and skips opinions and promises",
-        "Gives no verdict without a cited source and a precise link",
-      ],
-    },
-  },
+
 };
 // What a project is, for someone who has never heard of it: one sentence, then what it does. Hand-written and
 // settled with the lab: the activity sync never rewrites it.
@@ -126,6 +113,30 @@ export const items: Item[] = [
   },
 
   {
+    id: "sic",
+    name: "Sic",
+    line: "Political debates, fact-checked live.",
+    sub: "Transcribes the debate, identifies who speaks, and checks factual claims against official sources, live or on replay. Built for the 2027 French presidential election.",
+    tags: ["Public goods"],
+    links: [
+      { kind: "site", label: "sic.observer", href: "https://sic.observer" },
+      { kind: "github", label: "GitHub", href: "https://github.com/amontlabs/sic" },
+    ],
+    needs: [],
+    kind: "web",
+    platforms: [],
+    film: { id: "sic", ratio: "4 / 3", dur: 24, audio: true, full: "/media/sic-full.mp4" },
+    tier: "product",
+    stage: "Prototype",
+    pitch: {
+      lead: "Sic checks the facts in French political debates against official sources, live or on replay.",
+      points: [
+        "Watches the debate, identifies each speaker and what they claim",
+        "Picks out checkable claims and skips opinions and promises",
+        "Gives no verdict without a cited source and a precise link",
+      ],
+    },
+  },  {
     id: "lcu",
     name: "LCU",
     line: "Codex computer use, outside Codex.",
