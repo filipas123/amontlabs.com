@@ -12,8 +12,8 @@
     "forks": 0
   },
   "fjord": {
-    "version": "v0.11.1",
-    "releasedAt": "2026-11-14T12:15:31Z",
+    "version": "v0.12.0",
+    "releasedAt": "2026-11-15T01:28:23Z",
     "stars": 0,
     "forks": 1
   },
@@ -29,5 +29,5 @@
     "stars": 3,
     "forks": 1
   },
-  "updatedAt": "2026-11-14T21:05:19.184Z"
+  "updatedAt": "2026-11-15T01:28:36.202Z"
 }
