@@ -2,7 +2,7 @@
   "silo": {
     "version": "v0.12.0",
     "releasedAt": "2026-11-04T12:10:27Z",
-    "stars": 8,
+    "stars": 9,
     "forks": 1
   },
   "atelier": {
@@ -26,7 +26,7 @@
   "lcu": {
     "version": "v0.13.8",
     "releasedAt": "2026-11-14T21:05:04Z",
-    "stars": 2431,
+    "stars": 2434,
     "forks": 166
   },
   "lastdrop": {
@@ -35,5 +35,5 @@
     "stars": 3,
     "forks": 1
   },
-  "updatedAt": "2026-11-16T06:11:24.467Z"
+  "updatedAt": "2026-11-16T18:22:49.866Z"
 }
