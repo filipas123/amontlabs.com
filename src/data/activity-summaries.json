@@ -1,8 +1,4 @@
 {
- "2026-11-16": {
-  "hash": "1015726de0ca79956388c4d451085bd473dd03bf",
-  "text": "Silo started over on its app: it wrote a list of 119 planned features in 13 stages and built a page where the owner reviews each one and records decisions."
- },
  "2026-11-15": {
   "hash": "0573d94a5e8b5834679f47a5ac0bf05d4981a7b2",
   "text": "Fjord's Router now keeps every version of a playable explainer, the original and one per follow-up, and no longer stalls while its window is resized. In lastdrop, an agent on another model no longer fails after a long run with \"Prompt is too long\"."
@@ -114,5 +110,13 @@
  "2026-10-19": {
   "hash": "c96a3d13daecd32e2dc2eea30c6b4cccc8e7d471",
   "text": "Fjord can now split a message meant for several places into parts, shown as you type, and send each part where it belongs. LCU now keeps computer use working after the ChatGPT app updates itself on macOS."
+ },
+ "2026-11-16": {
+  "hash": "7992a033c20d05708fbdd786e2f0d0755a94f7da",
+  "text": "Silo started over and is now being rebuilt in the open, one feature at a time, with the earlier code kept aside. A new public page shows the plan as a map of its 16 areas, where visitors can see what is being built and comment."
+ },
+ "2026-11-17": {
+  "hash": "05fa8477adcc7cc0ac881cc36d009c3c9e776034",
+  "text": "In LCU, approving computer use for an app in T3 Code is again something only you can answer; before, an agent could approve it on a subagent's behalf. Silo's public plan page went live, with the plan kept in sync with GitHub issues."
  }
 }
