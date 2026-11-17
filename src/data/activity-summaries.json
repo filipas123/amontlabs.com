@@ -1,7 +1,7 @@
 {
- "2026-11-15": {
-  "hash": "0573d94a5e8b5834679f47a5ac0bf05d4981a7b2",
-  "text": "Fjord's Router now keeps every version of a playable explainer, the original and one per follow-up, and no longer stalls while its window is resized. In lastdrop, an agent on another model no longer fails after a long run with \"Prompt is too long\"."
+ "2026-11-16": {
+  "hash": "7992a033c20d05708fbdd786e2f0d0755a94f7da",
+  "text": "Silo started over and is now being rebuilt in the open, one feature at a time, with the earlier code kept aside. A new public page shows the plan as a map of its 16 areas, where visitors can see what is being built and comment."
  },
  "2026-11-14": {
   "hash": "34e8bed550041372b4555522fee7eeb9056eaf50",
@@ -111,12 +111,12 @@
   "hash": "c96a3d13daecd32e2dc2eea30c6b4cccc8e7d471",
   "text": "Fjord can now split a message meant for several places into parts, shown as you type, and send each part where it belongs. LCU now keeps computer use working after the ChatGPT app updates itself on macOS."
  },
- "2026-11-16": {
-  "hash": "7992a033c20d05708fbdd786e2f0d0755a94f7da",
-  "text": "Silo started over and is now being rebuilt in the open, one feature at a time, with the earlier code kept aside. A new public page shows the plan as a map of its 16 areas, where visitors can see what is being built and comment."
+ "2026-11-15": {
+  "hash": "2228bea02cd2258dc1330de2a89d7eeb291f2526",
+  "text": "Fjord's Router now keeps each version of an explainer, one per follow-up, and no longer stalls while its window is resized. atelier now runs a project's tests and its other checks at the same time. lastdrop fixed long agent runs failing on their next turn."
  },
  "2026-11-17": {
-  "hash": "05fa8477adcc7cc0ac881cc36d009c3c9e776034",
-  "text": "In LCU, approving computer use for an app in T3 Code is again something only you can answer; before, an agent could approve it on a subagent's behalf. Silo's public plan page went live, with the plan kept in sync with GitHub issues."
+  "hash": "0f5c8d542bd4ed28e4cf792c4127583308424489",
+  "text": "LCU closed a gap in T3 Code where an agent could approve computer use for an app: approvals now go through T3 Code's own approval card, which only you can answer. Fjord's inbox list now keeps loading more from GitHub as you scroll to its end."
  }
 }
