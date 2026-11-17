@@ -26,8 +26,8 @@
   "lcu": {
     "version": "v0.13.8",
     "releasedAt": "2026-11-14T21:05:04Z",
-    "stars": 2434,
-    "forks": 166
+    "stars": 2435,
+    "forks": 167
   },
   "lastdrop": {
     "version": "v0.8.17",
@@ -35,5 +35,5 @@
     "stars": 3,
     "forks": 1
   },
-  "updatedAt": "2026-11-16T18:22:49.866Z"
+  "updatedAt": "2026-11-17T02:52:56.532Z"
 }
