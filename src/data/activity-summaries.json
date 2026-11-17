@@ -1,7 +1,7 @@
 {
- "2026-11-16": {
-  "hash": "7992a033c20d05708fbdd786e2f0d0755a94f7da",
-  "text": "Silo started over and is now being rebuilt in the open, one feature at a time, with the earlier code kept aside. A new public page shows the plan as a map of its 16 areas, where visitors can see what is being built and comment."
+ "2026-11-15": {
+  "hash": "2228bea02cd2258dc1330de2a89d7eeb291f2526",
+  "text": "Fjord's Router now keeps each version of an explainer, one per follow-up, and no longer stalls while its window is resized. atelier now runs a project's tests and its other checks at the same time. lastdrop fixed long agent runs failing on their next turn."
  },
  "2026-11-14": {
   "hash": "34e8bed550041372b4555522fee7eeb9056eaf50",
@@ -111,12 +111,12 @@
   "hash": "c96a3d13daecd32e2dc2eea30c6b4cccc8e7d471",
   "text": "Fjord can now split a message meant for several places into parts, shown as you type, and send each part where it belongs. LCU now keeps computer use working after the ChatGPT app updates itself on macOS."
  },
- "2026-11-15": {
-  "hash": "2228bea02cd2258dc1330de2a89d7eeb291f2526",
-  "text": "Fjord's Router now keeps each version of an explainer, one per follow-up, and no longer stalls while its window is resized. atelier now runs a project's tests and its other checks at the same time. lastdrop fixed long agent runs failing on their next turn."
+ "2026-11-16": {
+  "hash": "b054947ce644a23c9a968f06e9d8daad181e70d5",
+  "text": "Silo started a rebuild in the open, one feature at a time; a new public page shows its plan and takes comments through GitHub. lastdrop's main Claude account now has its own sign-in, so logging into Claude Code in a terminal no longer changes it."
  },
  "2026-11-17": {
-  "hash": "0f5c8d542bd4ed28e4cf792c4127583308424489",
-  "text": "LCU closed a gap in T3 Code where an agent could approve computer use for an app: approvals now go through T3 Code's own approval card, which only you can answer. Fjord's inbox list now keeps loading more from GitHub as you scroll to its end."
+  "hash": "52cff7a62508afb4e93217e1fc14a8bbd1ab6102",
+  "text": "LCU's computer-use approvals in T3 Code can again be answered only by you, not by an agent. Fjord's GitHub inbox now keeps loading more items as you scroll to its end. Silo's public plan page now shows what it last showed right away instead of starting blank."
  }
 }
