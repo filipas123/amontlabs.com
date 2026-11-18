@@ -1,4 +1,8 @@
 {
+ "2026-11-17": {
+  "hash": "ed7b928b1354d522e8bd74607f59c59fc6a6082d",
+  "text": "In LCU, computer-use approvals in T3 Code are approval requests again, so only you can answer them, not an agent. Silo's home page now plays a looping picture of a task in seven steps. Fjord's inbox list now keeps loading as you scroll to its end."
+ },
  "2026-11-16": {
   "hash": "b054947ce644a23c9a968f06e9d8daad181e70d5",
   "text": "Silo started a rebuild in the open, one feature at a time; a new public page shows its plan and takes comments through GitHub. lastdrop's main Claude account now has its own sign-in, so logging into Claude Code in a terminal no longer changes it."
@@ -110,10 +114,6 @@
  "2026-10-20": {
   "hash": "1df5f7d9f7381b6a2ec357d4b73f7aa75df61204",
   "text": "LCU fixed approvals in the Claude app, where answering the card for a new app could leave computer use waiting about 30 minutes, mostly in auto permission mode. Fjord's Router now checks more messages for parts meant for different sessions."
- },
- "2026-11-17": {
-  "hash": "ed7b928b1354d522e8bd74607f59c59fc6a6082d",
-  "text": "In LCU, computer-use approvals in T3 Code are approval requests again, so only you can answer them, not an agent. Silo's home page now plays a looping picture of a task in seven steps. Fjord's inbox list now keeps loading as you scroll to its end."
  },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
