@@ -1,13 +1,4 @@
 {
- "hartlib": {
-  "hash": "9b2e2db8a4c577550692473a444c7bb0fa88a021",
-  "lead": "Hartlib is one research chat over everything you subscribe to, for people who read professional briefings.",
-  "points": [
-   "Answers plain-language questions with each claim linked to its page",
-   "Reads dense briefings, letters and official records for you",
-   "Lets publishers publish issues and invite client companies"
-  ]
- },
  "silo": {
   "hash": "13631efa8a4be8c5e6ea1e5d388cb1042967f9a8",
   "lead": "Silo gives your AI agents their own isolated computers that you can branch, diff and fold back like a Git repo.",
@@ -33,15 +24,6 @@
    "Answer every Claude Code session's questions and plans from one page",
    "Sort your GitHub inbox and CI by rules you write as sentences",
    "Hand a failing check to the Claude Code session that can fix it"
-  ]
- },
- "sic": {
-  "hash": "19d2e42ab6da9a66d4ac7315fb74cef106ae2c9b",
-  "lead": "Sic checks the facts in French political debates against official sources, live or on replay.",
-  "points": [
-   "Turns debate audio into text and names who is speaking",
-   "Picks out checkable claims and skips opinions and promises",
-   "Gives no verdict without a cited source and a precise link"
   ]
  },
  "lastdrop": {
