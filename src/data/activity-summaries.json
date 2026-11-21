@@ -103,10 +103,6 @@
   "hash": "b1e322c30e341b6d1cfedc5f5199aa33d9ed35f4",
   "text": "Fjord now delivers every message the same way, through another chat the Claude app runs, whether the target is running or asleep, and shows each one going from sending to delivered. LCU's update notices now reach the person only, not the agent's model."
  },
- "2026-10-22": {
-  "hash": "01d011412510e960611179b175d7830fe9f3cfc1",
-  "text": "Fjord can now wake a Claude Code chat that the Claude app isn't running, so a message sent to it still goes through. Retrying a failed send now resends it as it was."
- },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
   "text": "Silo's home page now fits its whole looping picture of a task in a laptop's window, at any width from 1024 pixels, with the headline and pitch above it and no buttons. Each picture in the loop now fades into the next."
