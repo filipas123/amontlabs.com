@@ -99,10 +99,6 @@
   "hash": "92500d439e880d3b39aad61b0ed9b38cc7eecfe6",
   "text": "LCU added experimental support for Junie, where the agent asks for each app and the person approves it with Touch ID or a password. On Windows, LCU now installs with the current ChatGPT Store app, including when that app is on another drive."
  },
- "2026-10-23": {
-  "hash": "b1e322c30e341b6d1cfedc5f5199aa33d9ed35f4",
-  "text": "Fjord now delivers every message the same way, through another chat the Claude app runs, whether the target is running or asleep, and shows each one going from sending to delivered. LCU's update notices now reach the person only, not the agent's model."
- },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
   "text": "Silo's home page now fits its whole looping picture of a task in a laptop's window, at any width from 1024 pixels, with the headline and pitch above it and no buttons. Each picture in the loop now fades into the next."
