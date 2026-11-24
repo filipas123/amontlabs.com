@@ -91,10 +91,6 @@
   "hash": "6120138b4f3ed32159e72234a6fe1b245f838066",
   "text": "lastdrop began as a menu bar app that shows how much usage is left on Claude, Codex, Antigravity, Z.ai and OpenRouter accounts. It also learned to open a separate Claude app window for each Claude account, and to show the limit resets each account can still use."
  },
- "2026-10-25": {
-  "hash": "dae2d26cd54a6967051189a4b64d623b6959e92a",
-  "text": "Fjord's Router now shows its answer as it is written, with its thinking and tool calls a click away. LCU fixed computer use for teammates in Claude Code agent teams, where every call had failed, and Junie on macOS now gets LCU's instructions from its first prompt."
- },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
   "text": "Silo's home page now fits its whole looping picture of a task in a laptop's window, at any width from 1024 pixels, with the headline and pitch above it and no buttons. Each picture in the loop now fades into the next."
