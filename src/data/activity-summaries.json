@@ -87,10 +87,6 @@
   "hash": "0eda17c164306b4dda83115e0c281ecef92ac732",
   "text": "lastdrop switched to running Claude Code's subagents on other Claude accounts that still have room, instead of opening a Claude window per account. It also let people set up their own agents on Codex, Antigravity, Z.ai or OpenRouter models, which Claude calls like its own."
  },
- "2026-10-26": {
-  "hash": "6120138b4f3ed32159e72234a6fe1b245f838066",
-  "text": "lastdrop began as a menu bar app that shows how much usage is left on Claude, Codex, Antigravity, Z.ai and OpenRouter accounts. It also learned to open a separate Claude app window for each Claude account, and to show the limit resets each account can still use."
- },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
   "text": "Silo's home page now fits its whole looping picture of a task in a laptop's window, at any width from 1024 pixels, with the headline and pitch above it and no buttons. Each picture in the loop now fades into the next."
