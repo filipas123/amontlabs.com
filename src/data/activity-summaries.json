@@ -83,10 +83,6 @@
   "hash": "d458ab972981a9605067758720e7f7827cc69300",
   "text": "lastdrop now moves a subagent that hits an account's usage limit to another Claude account with room, where it carries on. LCU stopped Claude Code from showing an error at the end of every turn when LCU wasn't connected."
  },
- "2026-10-27": {
-  "hash": "0eda17c164306b4dda83115e0c281ecef92ac732",
-  "text": "lastdrop switched to running Claude Code's subagents on other Claude accounts that still have room, instead of opening a Claude window per account. It also let people set up their own agents on Codex, Antigravity, Z.ai or OpenRouter models, which Claude calls like its own."
- },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
   "text": "Silo's home page now fits its whole looping picture of a task in a laptop's window, at any width from 1024 pixels, with the headline and pitch above it and no buttons. Each picture in the loop now fades into the next."
