@@ -79,10 +79,6 @@
   "hash": "faa788bda095a53b65d10d4f7e07183bc92cc8fe",
   "text": "lastdrop now takes several accounts for every provider and runs agents on Codex, Z.ai and OpenRouter on the one with the most usage left. LCU's Claude Code setup stopped saving a path tied to one machine, so a skills folder kept in a repository stays the same on every machine."
  },
- "2026-10-28": {
-  "hash": "d458ab972981a9605067758720e7f7827cc69300",
-  "text": "lastdrop now moves a subagent that hits an account's usage limit to another Claude account with room, where it carries on. LCU stopped Claude Code from showing an error at the end of every turn when LCU wasn't connected."
- },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
   "text": "Silo's home page now fits its whole looping picture of a task in a laptop's window, at any width from 1024 pixels, with the headline and pitch above it and no buttons. Each picture in the loop now fades into the next."
