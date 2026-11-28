@@ -75,10 +75,6 @@
   "hash": "b2e90a874ea073adc4cb738071d64ffd9f837ce4",
   "text": "lastdrop added a Stats tab with token use and what it would cost at API prices, by day, project, account and model. An agent can now have backup models that run if the first can't start, and the app now updates itself."
  },
- "2026-10-29": {
-  "hash": "faa788bda095a53b65d10d4f7e07183bc92cc8fe",
-  "text": "lastdrop now takes several accounts for every provider and runs agents on Codex, Z.ai and OpenRouter on the one with the most usage left. LCU's Claude Code setup stopped saving a path tied to one machine, so a skills folder kept in a repository stays the same on every machine."
- },
  "2026-11-18": {
   "hash": "4454b16ad5fcee7172aa5d03889af6c5aa0baf6a",
   "text": "Silo's home page now fits its whole looping picture of a task in a laptop's window, at any width from 1024 pixels, with the headline and pitch above it and no buttons. Each picture in the loop now fades into the next."
